@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-=======
-{
-  "samples": {
-    "softice": {
-      "kick": "softice/kick",
-      "drums": "softice/drums",
-      "drumloop": "softice/drumloop",
-      "pad": "softice/pad",
-      "stutter": "softice/stutter",
-      "vocalstab": "softice/vocalsstab"
-    }
-  }
-}
->>>>>>> 4c6e76070d3e13c74e9bc707ff83a1dc46a7f3c5
+
