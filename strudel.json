@@ -1,10 +1,12 @@
 {
   "samples": {
-    "kick": "softice/kick",
-    "drums": "softice/drums",
-    "drumloop": "softice/drumloop",
-    "pad": "softice/pad",
-    "stutter": "softice/stutter",
-    "vocalstab": "softice/vocalsstab"
+    "softice": {
+      "kick": "softice/kick",
+      "drums": "softice/drums",
+      "drumloop": "softice/drumloop",
+      "pad": "softice/pad",
+      "stutter": "softice/stutter",
+      "vocalstab": "softice/vocalstab"
+    }
   }
 }
